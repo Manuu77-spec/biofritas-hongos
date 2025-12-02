@@ -1,5 +1,6 @@
 # biofritas-hongos
 informacion sobre los microorganismos de agua dulce 
+
 La especie observada bajo el microscopio es un cuerpo alargado, segmentado, que carece de movilidad aparente (sésil). Su morfología es rígida y presenta una pigmentación que oscila entre el verde y el amarillo. Pertenece al Reino Plantas. 
 
 La clasificación se basa en la evidencia de autótrofa, inferida por la coloración verde (presencia de clorofila necesaria para la fotosíntesis). Además, su naturaleza sésil y su estructura compleja (segmentación) lo alinean con las plantas terrestres, específicamente las Briófitas (musgos), que son organismos no vasculares comunes en este tipo de muestras húmedas. Además de las características morfológicas observadas, es importante considerar el ciclo de vida de los briófitos. 
